@@ -1,0 +1,8 @@
+curl -d 'hello world 1' 'http://127.0.0.1:4163/pub?topic=test'
+curl -d 'hello world 2' 'http://127.0.0.1:4163/pub?topic=test'
+curl -d 'hello world 3' 'http://127.0.0.1:4163/pub?topic=test'
+curl -d 'hello world 1' 'http://127.0.0.1:4163/pub?topic=test'
+curl -d 'hello world 2' 'http://127.0.0.1:4163/pub?topic=test'
+curl -d 'hello world 3' 'http://127.0.0.1:4163/pub?topic=test'
+curl -d 'hello world 1' 'http://127.0.0.1:4163/pub?topic=test'
+curl -d 'hello world 2' 'http://127.0.0.1:4163/pub?topic=test'
